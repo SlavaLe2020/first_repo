@@ -1,0 +1,109 @@
+body {
+    background-image: url("../images/fon_seryj.jpg");
+    /* background-repeat: repeat-x; */
+    font-family:  Helvetica, sans-serif;
+    font-weight: normal;
+}
+header {
+    width: 100%;
+    height: 120px;
+    background: #000000;
+}
+nav {
+    width: 900px;
+    margin: 0 auto;
+}
+nav ul {
+    list-style-type: none;
+    color: #ffffff;
+    float: right;
+}
+nav ul li {
+    float: left;
+    margin-left: 30px;
+    margin-top: 45px;
+}
+nav img {
+    margin-top: 2px;
+}
+#logo{
+    background: none;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+nav a:hover {
+    background: #c0c0c0;
+}
+h1 {
+    font-size: 30px; 
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+h2 {
+    color: #000000;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+h3 {
+    color: #ffffff;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+p {
+    color: #333333;
+    font-size: 12px;
+}
+#content {
+    width: 900px;
+    margin: 0 auto;
+    background-image: url("../images/pngwing.com.png");
+    background-size: auto 300px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.header {
+    height: 320px;
+}
+#caption {
+    margin-top: 56px;
+}
+.column {
+    float: left;
+    width: 400px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+footer {
+    background-color: #000000;
+    height: 160px;
+    width: 100%;
+    float: left;
+    
+    padding-top: 10px;
+}
+.footer {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer p {
+    color: #ffffff;
+    font-style: italic;
+    font-size: 11px;
+}
+.copywrites {
+    color: #333333;
+    font-size: 10px;
+    margin: 10px auto;
+    text-align: right;
+    float: left;
+    width: 900px;
+    text-decoration: none;
+}
